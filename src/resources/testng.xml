@@ -10,8 +10,8 @@
      		 <class name="Siva_test.TestScenario_3"/>
         </classes>
     </test>
-    <test name="edgeTest">
-        <parameter name="browser" value="edge"/>
+    <test name="safariTest">
+        <parameter name="browser" value="safari"/>
         <parameter name="version" value="latest"/>
         <parameter name="platform" value="macOS Catalina"/>
         <classes>
